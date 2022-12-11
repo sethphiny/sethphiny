@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Sethphiny</h1>
 <h3 align="center">💻 Backend developer </h3> 
-
-<br>
+<br />
+**About me**
 <ul>
   <li>🔭 I'm currently working as a <b>Software Engineer at<a href="https://github.com/chainconsults"> Chainconsults</b></a></li>
   <li>👀 I enjoy deploying web applications</li>
