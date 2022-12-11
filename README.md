@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">👋 Hi, I’m Sethphiny</h1>
+<h3  align="center">💻 Backend developer | 🅦🅔🅑➌ | 📖 Tech enthusiast </h3>  
 
 <!--
 **sethphiny/sethphiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
