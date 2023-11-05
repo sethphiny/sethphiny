@@ -24,6 +24,9 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 </div>
 
+---
+[![](https://visitcount.itsvg.in/api?id=sethphiny&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 <!--
 **sethphiny/sethphiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
