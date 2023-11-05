@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi, I’m Sethphiny</h1>
-<h3 align="center">💻 Backend developer </h3> 
+<h3 align="center">💻 Backend developer </h3>
+<h5 align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sethphiny) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PhinehasSeth) 
+</h5>
 <br />
 **About me**
 <ul>
